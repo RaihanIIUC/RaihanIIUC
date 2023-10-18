@@ -36,3 +36,5 @@
 <a href="mailto:mdraihan4835@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/12324937/raihan-bd-1213"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaihanIIUC)](https://github.com/RaihanIIUC/github-readme-stats)
