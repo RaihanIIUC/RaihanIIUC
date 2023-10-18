@@ -1,5 +1,10 @@
 
 
+<p align=center>
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Hadi+Uzzaman;Laravel+Developer" alt="Typing SVG" /></a>
+  </div>
+</p>
 <p align="center">
   <img height="150" width="150" src="images/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanIIUC&theme=dark&hide_border=true"/>
