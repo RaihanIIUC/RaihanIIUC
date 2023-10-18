@@ -37,5 +37,4 @@
 <a href="https://stackoverflow.com/users/12324937/raihan-bd-1213"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaihanIIUC)](https://github.com/RaihanIIUC/github-readme-stats)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@f2a7e45e-e942-49f1-88eb-65da27fff009)](https://github.com/anuraghazra/github-readme-stats)
