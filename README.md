@@ -6,9 +6,9 @@
   </div>
 </p>
 <p align="center">
-  <img height="150" width="150" src="images/left.webp">
+  <img height="150" width="150" src="left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanIIUC&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="images/right.webp">
+  <img height="150" width="150" src="right.webp">
 </p>
 
 
