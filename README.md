@@ -1,4 +1,8 @@
-
+<p align="center">
+  <ul>   
+    <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+    </ul>
+</p>	
 
 <p align=center>
   <div align="center">
