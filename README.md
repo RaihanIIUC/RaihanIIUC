@@ -1,14 +1,5 @@
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I'Mohammed+Raihan;Laravel+Developer"
-                                          alt="Typing SVG" ></a>
-  </div>
 
-</p>
-<p align="center"  >
-<!--     <img height="150" width="150" src="left.webp"> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanIIUC&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" width="30%" height="20%" />
-<!--     <img height="150" width="150" src="right.webp"> -->
-</p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanIIUC&theme=dark&hide_border=true"/>
